@@ -3,11 +3,11 @@
   "site_title": "Thinking Aviation",
   "site_description": "Flight instructors writing about aviation",
   "site_keywords": [
-    "Flight Instruction",
-    "Private Pilot",
-    "Commercial Pilot",
-    "Aviation knowledge",
-    "Instrument Rating"
+    {"keyword": "Flight Instruction"},
+    {"keyword": "Private Pilot"},
+    {"keyword": "Commercial Pilot"},
+    {"keyword": "Aviation knowledge"},
+    {"keyword": "Instrument Rating"}
   ],
   "posts_per_page": 5,
   "twitter_account": "none",
