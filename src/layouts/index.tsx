@@ -92,7 +92,7 @@ export default function Index({
           {`
             .container {
               display: block;
-              max-width: 50rem;
+              max-width: 51rem;
               width: 100%;
               margin: 0 auto;
               padding: 0 1.5rem;
