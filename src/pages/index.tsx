@@ -7,6 +7,7 @@ import { SocialList } from "../components/SocialList";
 export default function Index() {
   return (
     <Layout>
+      <>
       <BasicMeta url={"/"} />
       <OpenGraphMeta url={"/"} />
       <TwitterCardMeta url={"/"} />
@@ -57,6 +58,7 @@ export default function Index() {
           }
         }
       `}</style>
+      </>
     </Layout>
   );
 }
