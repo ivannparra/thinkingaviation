@@ -20,7 +20,7 @@ export default function Index() {
           <SocialList />
         </div>
       </div>
-      <style jsx>{`
+      <style jsx>[
         .container {
           display: flex;
           align-items: center;
@@ -56,7 +56,7 @@ export default function Index() {
             font-size: 2.25rem;
           }
         }
-      `}</style>
+      ]</style>
     </Layout>
   );
 }
