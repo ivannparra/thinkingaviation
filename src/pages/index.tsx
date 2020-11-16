@@ -14,7 +14,7 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, We're thinking aviation">.</span>
+            Hi, We're thinking aviation"<span className="fancy">.</span>
           </h1>
           <span className="handle">@thinkingaviation</span>
           <h2>An aviation blog created by Flight Instructors.</h2>
